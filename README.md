@@ -415,4 +415,4 @@ jupyter notebook house_prices_prediction.ipynb
 
 ---
 
-# ⭐ If you found this project useful, consider giving the repository a star!
+## ⭐ If you found this project useful, consider giving the repository a star!
